@@ -1,0 +1,13 @@
+body{
+    background-color:#1b1b32;
+    color: white;
+    }
+    
+    .homebar{
+      display:flex;
+      justify-content:space-between;
+    }
+    
+    p{
+        text-align: center;
+    }
